@@ -26,14 +26,17 @@ A análise foi realizada utilizando a linguagem Python e as bibliotecas Pandas, 
 
 ## Como Executar
 
-1.  Clone este repositório:
+-- Criar o ambiente virtual
+    python -m venv venv
 
-2.  Certifique-se de ter o Python e as bibliotecas necessárias instaladas. Você pode instalar as dependências usando o pip:
+-- Ativar o ambiente virtual (Windows)
+    venv\Scripts\activate
 
-    `pip install pandas numpy matplotlib`
+-- Ativar o ambiente virtual (Linux)
+    source venv/bin/activate
 
-4.  Abra o notebook `analise_estatistica.ipynb` com o Jupyter Notebook ou JupyterLab.
-5.  Execute as células do notebook para reproduzir a análise.
+--  Instalar dependências a partir do requirements.txt
+    pip install -r requirements.txt
 
 ## Referências
 
