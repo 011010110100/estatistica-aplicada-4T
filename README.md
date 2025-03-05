@@ -11,7 +11,8 @@ O objetivo deste projeto é aplicar técnicas de Estatística Descritiva para su
 
 ## Conteúdo
 
-* `Anexo_Projeto_fifa.../`: Arquivo contendo o banco de dados em formato CSV
+* `Dados/Anexo_Projeto_fifa.../`: Arquivo contendo o banco de dados em formato CSV
+* `Dados/Dicionario/`: Arquivo contendo explicações sobre os dados
 * `analise_estatistica.ipynb`: Notebook Jupyter com a análise estatística dos dados, incluindo:
     * Identificação e listagem de variáveis qualitativas (nominal e ordinal) e quantitativas (discreta e contínua).
     * Tabelas de frequência para duas variáveis qualitativas.
